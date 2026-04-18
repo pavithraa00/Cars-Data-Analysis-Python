@@ -20,7 +20,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a real-wor
 
 📂 **Dataset**
 
-* The dataset contains time-series weather data with the following features:
+##The dataset contains time-series weather data with the following features:
 
 * Make
 * Model
