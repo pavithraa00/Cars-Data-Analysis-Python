@@ -1,4 +1,4 @@
-📊 **Data Analysis Project using Python & Pandas**
+🚗 **Cars Data Analysis using Python & Pandas**
 
 I recently completed another hands-on data analysis project on Cars Dataset, implementing it step by step.
 
@@ -15,6 +15,28 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a real-wor
 * Perform data cleaning and preprocessing
 * Analyze data using Pandas operations
 * Solve real-world analytical questions
+
+---
+
+📂 **Dataset**
+
+* The dataset contains time-series weather data with the following features:
+
+* Make
+* Model
+* Type
+* Origin
+* DriveTrain
+* MSRP
+* Invoice
+* EngineSize
+* Cylinders
+* Horsepower
+* MPG_City
+* MPG_Highway
+* Weight
+* Wheelbase
+* Length
 
 ---
 
@@ -50,21 +72,6 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a real-wor
 * Extracted specific insights from dataset
 * Applied multiple conditions (AND / OR filtering)
 * Analyzed patterns and trends
-
----
-
-📊 **Sample Code**
-
-```python
-# Filtering data
-data[data['column'] > value]
-
-# Grouping
-data.groupby('column').mean(numeric_only=True)
-
-# Multiple conditions
-data[(condition1) & (condition2)]
-```
 
 ---
 
